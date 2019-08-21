@@ -14,8 +14,16 @@
    连接字符串：str + str
 
 格式化字符串简介：
+.format()
 var='str_{val1}{val2}'
 print(var.format(val1=Hello,val2=Echo))
 str_HelloEcho
-
+  空白字符：\n,\t
+  
+ 去除空白符：
+ str.lstrip()
+ str.rstrip()
+ str.strip()
+ 
+ 
 
