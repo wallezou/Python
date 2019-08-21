@@ -25,5 +25,16 @@ str_HelloEcho
  str.rstrip()
  str.strip()
  
- 
+列表（Lists）：
+列表也是一个变量
 
+  命名和定义列表：
+  列表是元素的集合，列表名最好设置为复数
+  lists=['val1','val2','va1n']
+
+  访问列表元素：
+    lists=['val1','val2','valn']
+    print(lists[0],lists[-1])
+    
+    
+    
