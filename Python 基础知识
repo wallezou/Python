@@ -36,5 +36,16 @@ str_HelloEcho
     lists=['val1','val2','valn']
     print(lists[0],lists[-1])
     
-    
+列表和循环
+  访问列表中所有元素：
+  lists=['val1','val2','valn']
+  for var in lists:
+    print(var)
+      val1
+      val2
+      valn
+      
+穷举列表：
+  
+  
     
