@@ -1,4 +1,5 @@
 变量
+删除单个变量： >>> del var_name
 数字
 字符串
   
@@ -46,6 +47,11 @@ str_HelloEcho
       valn
       
 穷举列表：
+for index,vars in enumerate(var):
+  print(str(index))
+  Break
+  Continue
+  
   
   
     
